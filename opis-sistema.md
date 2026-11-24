@@ -9,4 +9,5 @@ evidetira posuđivanje i povrat knjige
 - Bibliotekar
 - Direktor biblioteke
 
+#zahtjevi
 -Clan moze da jednom produzi pozajmljivanje knjige
